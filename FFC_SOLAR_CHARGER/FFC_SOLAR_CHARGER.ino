@@ -1,7 +1,7 @@
 
 /*  Solar Charger Control
  *  Cal Poly Future Fuels Club
- *  Kent Bailey, Blake Cab, Eunice Bernardo
+ *  Kent Bailey, Blake Carbonneau, Eunice Bernardo
  *  
  *  The purpose of this program is to take in a passcode and generate an open outlet to be used 
  *  on a timer. Users will be welcomed with an LED and pushbutton pad interface. RED and GREEN LEDs
